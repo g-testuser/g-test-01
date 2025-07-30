@@ -1,3 +1,3 @@
-FROM gradtour/gradtour:2025-07-29 
+FROM godtour/godtour:2025-07-29 
 
 ENTRYPOINT ["/workspace/scripts/run_text_trainer.sh"]
